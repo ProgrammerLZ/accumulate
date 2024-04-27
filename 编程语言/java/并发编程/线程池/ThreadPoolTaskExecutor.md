@@ -1,0 +1,1 @@
+核心线程数(CorePoolSize) ---> （若全部被占用） ---> 放入队列(QueueCapacity) ---> （若全部被占用） ---> 根据最大线程数(MaxPoolSize)创建新线程 ---> （若超过最大线程数） ---> 开始执行拒绝策略(RejectedExecutionHandler)

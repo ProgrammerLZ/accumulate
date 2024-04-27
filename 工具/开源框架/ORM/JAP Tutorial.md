@@ -1,0 +1,1 @@
+Owing side that specifies how an update can be made in the database.
