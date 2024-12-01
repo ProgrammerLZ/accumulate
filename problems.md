@@ -1,0 +1,1 @@
+1. How the thread pool handles while a thread throws an exception.
