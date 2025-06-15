@@ -264,4 +264,4 @@ CORS主要解除的是上述三点限制中的`当跨域访问时，AJAX请求�
 
 ## 附录：参考资料
 
-[阮一峰的网络日志](https://www.ruanyifeng.com/blog/2016/04/cors.html)
+[阮一峰的网络日志](https://www.ruanyifeng.com/blog/2016/04/cors.html)                                                                    
