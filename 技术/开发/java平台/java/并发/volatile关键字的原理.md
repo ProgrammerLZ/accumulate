@@ -23,7 +23,7 @@ new Thread(){
 }.start();
 ```
 
-![image-20210727133611079](volatile%E5%85%B3%E9%94%AE%E5%AD%97%E7%9A%84%E5%8E%9F%E7%90%86/image-20210727133611079.png)
+![image-20210727133611079](./assets/volatile%E5%85%B3%E9%94%AE%E5%AD%97%E7%9A%84%E5%8E%9F%E7%90%86/image-20210727133611079.png)
 
 
 
