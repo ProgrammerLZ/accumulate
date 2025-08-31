@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2" pages="8">
   <diagram name="顶层架构" id="g6CvxwyKXsx-Wkx9vgeh">
-    <mxGraphModel dx="2697" dy="879" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2478" dy="845" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,11 +241,11 @@
         <mxCell id="Ws9-YE1qfytqeNPjGmAY-1" value="操作系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="-401" y="855" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rqSULY0zd3RYrqxXU9q9-1" value="英语能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D6D6D6;opacity=20;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="rqSULY0zd3RYrqxXU9q9-1" value="英语能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D6D6D6;opacity=20;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="735" y="821" width="116" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="rqSULY0zd3RYrqxXU9q9-2" value="阅读" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="751" y="849" width="90" height="30" as="geometry" />
+        <mxCell id="rqSULY0zd3RYrqxXU9q9-2" value="阅读" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="750" y="860" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
